@@ -1,0 +1,47 @@
+.header{
+  width: 100vw;
+  display: flex;
+  justify-content: end;
+  
+}
+
+button{
+  width : 200px;
+  height: 50px;
+  margin: 10px;
+}
+
+.BannerBtns{
+  margin-top: 50px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.AuthenticationPage{
+  display: flex;
+  margin: 30px;
+  justify-content: space-evenly;
+  height: 100vh;
+}
+
+.loginForm{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.userImage{
+width: 100px;
+height: 100px;
+}
+
+.homePage,.sidebar{
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.Blog_img, .profile_img{
+  width:200px
+}
+
